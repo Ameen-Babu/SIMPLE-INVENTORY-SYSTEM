@@ -2,7 +2,6 @@
 
 A simple Express.js API with a health check endpoint.
 
-🌐 **Live Demo:** [simple-inventory](https://simple-inventory-system-gold.vercel.app/)
 
 ---
 
