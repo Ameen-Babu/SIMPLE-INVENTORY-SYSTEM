@@ -1,10 +1,14 @@
 {
-  "name": "inventory",
+  "name": "inventory-backend",
   "version": "1.0.0",
+  "description": "Simple Inventory Management System Backend",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
   }
